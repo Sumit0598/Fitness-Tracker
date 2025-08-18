@@ -1,13 +1,21 @@
 # Fitness-Tracker
 
 *COMPANY* : CODECH IT SOLUTIONS
+
 *NAME* : SUMIT KUMAR
+
 *INTERN ID* : CT06DZ105
+
 *DOMAIN* : APP DEVELOPMENT
+
 *DURATION* : 6 WEEKS
+
 *MENTOR* : NEELA SANTOSH
 
+
 ## 
+
+
 The Fitness Tracker Application is an Android app developed in Kotlin that helps users monitor and manage their physical activity in real time. Utilizing Android’s built-in sensors, the app tracks steps, distance walked, and calories burned. By providing real-time feedback and historical insights, the app encourages healthier lifestyle choices and helps users achieve their fitness goals.
 
 Features :
@@ -86,7 +94,9 @@ Benefits :-
 . Lightweight, efficient, and works seamlessly in the background without draining the battery.
 
 
+
 # OUTPUT
+
 
 ![Image](https://github.com/user-attachments/assets/fbd03fbd-0913-4026-86c7-9da70c31aaf5)
 
