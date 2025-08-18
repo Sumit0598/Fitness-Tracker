@@ -13,7 +13,6 @@ The Fitness Tracker Application is an Android app developed in Kotlin that helps
 Features :
 
 - Real-Time Step Counting
-- 
 -Tracks user steps using the Step Counter and Step Detector sensors.
 
 -Provides accurate and responsive updates as the user moves throughout the day.
