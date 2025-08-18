@@ -13,9 +13,9 @@ The Fitness Tracker Application is an Android app developed in Kotlin that helps
 Features :
 
 - Real-Time Step Counting
--Tracks user steps using the Step Counter and Step Detector sensors.
+- Tracks user steps using the Step Counter and Step Detector sensors.
 
--Provides accurate and responsive updates as the user moves throughout the day.
+- Provides accurate and responsive updates as the user moves throughout the day.
 
 Distance and Calorie Calculation :
 
@@ -57,24 +57,23 @@ Technical Highlights :
 
 Foreground Service for Real-Time Tracking :
 
-Implements StepCounterService to keep counting steps even when the app is minimized.
+- Implements StepCounterService to keep counting steps even when the app is minimized.
 
-Provides live updates to the UI via LiveData and ViewModel.
+- Provides live updates to the UI via LiveData and ViewModel.
 
-
-Data can be visualized in charts for weekly or monthly trends.
+- Data can be visualized in charts for weekly or monthly trends.
 
 Data Visualization :
 
-Integrates MPAndroidChart for displaying step trends over time.
+- Integrates MPAndroidChart for displaying step trends over time.
 
-Pie charts  make it easier to compare daily or weekly activity levels.
+- Pie charts  make it easier to compare daily or weekly activity levels.
 
 Modern Android Architecture :
 
-Uses activities, fragments, RecyclerView, ViewModel, LiveData, and Material Design components for a smooth and intuitive user experience.
+- Uses activities, fragments, RecyclerView, ViewModel, LiveData, and Material Design components for a smooth and intuitive user experience.
 
-Kotlin coroutines handle asynchronous data updates efficiently.
+- Kotlin coroutines handle asynchronous data updates efficiently.
 
 Benefits :-
 
